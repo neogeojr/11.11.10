@@ -1,3 +1,3 @@
-export * from "./utils/stringUtils.mjs";
-export * from "./numbersUtils.mjs";
+export * from "./stringUtils.mjs";
+export * from "./numberUtils.mjs";
  
